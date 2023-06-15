@@ -1,7 +1,6 @@
 # Capstone_Design_시각장애인을 위한 자판기
    * 이 파일은 캡스톤 디자인 포트폴리오를 위해 작성되었습니다.
    * 팀장 전성진, 팀원 윤준영, 김병현으로 구성된 팀 프로젝트입니다.
-   * 과제 개발이 완성 될때까지 갱신되는 포트폴리오 입니다.
    
    
    ![image](https://user-images.githubusercontent.com/119272401/206913526-dd158bc4-9f01-4fbd-90b9-d0ceffc31b34.png)
