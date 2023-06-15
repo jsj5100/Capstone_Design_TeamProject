@@ -93,7 +93,7 @@
   
   ![image](https://user-images.githubusercontent.com/119272401/206912568-9bc6bc69-684c-4322-aece-6f51bc1b77b4.png)
   <br/> <br/> <br/> <br/> <br/> 
-  * 자판기 제작 & 센서 연결
+  * 자판기 제작
 
   ![image](https://github.com/jsj5100/Capstone_Design_TeamProject/assets/119272401/f20f434a-6eea-4083-921f-53ae29438333)
 
